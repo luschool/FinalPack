@@ -1,2 +1,0 @@
-# FinalPack
-Final Pack Readme
